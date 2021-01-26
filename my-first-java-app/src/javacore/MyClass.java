@@ -26,6 +26,31 @@ public class MyClass {
         return this.name;
     }
 
+    public void printBoth(String text1, String text2){
+        print(text1);
+        print(text2);
+    }
+
+    public void print(String text){
+        System.out.println(text);
+    }
+
+    public void methodOne(String input){
+        if(isValid(input)){
+            System.out.println(input+" is valid");
+        }else{
+            System.out.println(input+" is not valid");
+        }
+    }
+
+    public boolean isValid(String value){
+//        if(value.equals("123")){
+//            return true;
+//        }
+//        return false;
+        return value.equals("123");
+    }
+
     public static void main(String[] args) {
         int number = 10;
         //System.out.println(number);

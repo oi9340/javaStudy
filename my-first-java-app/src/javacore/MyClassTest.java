@@ -9,5 +9,8 @@ public class MyClassTest {
 
     public static void main(String[] args) {
         System.out.println("test");
+
+        MyClass myClass = new MyClass();
+        myClass.printBoth("ㅋㅋㅋ", "ㅎㅎㅎ");
     }
 }
