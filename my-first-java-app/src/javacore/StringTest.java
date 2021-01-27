@@ -155,19 +155,19 @@ public class StringTest {
 //        System.out.println(lowercase);
 
         String input = "Hello %s";
-        String output1 = input.formatted("World");
+//        String output1 = input.formatted("World");
 //        System.out.println(output1);
 
-        String output2 = input.formatted("Jakob");
+//        String output2 = input.formatted("Jakob");
 //        System.out.println(output2);
 
         String input2 = "   Hey \n  This \n is\n    indented.";
-        String output3 = input2.stripIndent();
+//        String output3 = input2.stripIndent();
 //        System.out.println(output3);
 
         String input3 = "Hey, \\n This is not normally a line break.";
 //        System.out.println(input3);
-        String output4 = input3.translateEscapes();
+//        String output4 = input3.translateEscapes();
 //        System.out.println(output4);
 
 

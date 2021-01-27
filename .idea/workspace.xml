@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="" />
+    <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/out/production/my-first-java-app/javacore/text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javacore/WhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javacore/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest$Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/IfTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/IfTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/InstanceofTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/InstanceofTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/MathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/MyClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/MyClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/OperationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/OperationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/TernaryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javacore/TernaryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/myfirstapp/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/myfirstapp/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/myfirstapp/MyJavaApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/myfirstapp/MyJavaApp.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1nZKKmwEY3KawfP92yHUTfI1z1t" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,9 +57,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.InstanceofTest">
-    <configuration name="IfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.IfTest" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app\out\production\my-first-java-app\javacore" />
+      <recent name="C:\Users\pej\Documents\javaStudy" />
+      <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WhileTest">
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.ForTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -62,21 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.MyClassTest" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.OperationTest" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.StringTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -101,24 +117,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.WhileTest" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileTest" />
+        <item itemvalue="Application.ForTest" />
+        <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.InstanceofTest" />
         <item itemvalue="Application.TernaryTest" />
-        <item itemvalue="Application.IfTest" />
-        <item itemvalue="Application.MyClassTest" />
-        <item itemvalue="Application.OperationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -130,33 +161,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611592113259</updated>
-      <workItem from="1611592115924" duration="15444000" />
+      <workItem from="1611592115924" duration="15517000" />
+      <workItem from="1611763179403" duration="374000" />
+      <workItem from="1611763684321" duration="391000" />
+      <workItem from="1611764104499" duration="3012000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1430" height="224" key="GridCell.Tab.0.bottom" timestamp="1611679334175">
-      <screen x="0" y="0" width="1473" height="864" />
-    </state>
-    <state width="1430" height="224" key="GridCell.Tab.0.bottom/0.0.1473.864/-2560.0.2560.1080@0.0.1473.864" timestamp="1611679334175" />
-    <state width="1430" height="224" key="GridCell.Tab.0.center" timestamp="1611679334175">
-      <screen x="0" y="0" width="1473" height="864" />
-    </state>
-    <state width="1430" height="224" key="GridCell.Tab.0.center/0.0.1473.864/-2560.0.2560.1080@0.0.1473.864" timestamp="1611679334175" />
-    <state width="1430" height="224" key="GridCell.Tab.0.left" timestamp="1611679334175">
-      <screen x="0" y="0" width="1473" height="864" />
-    </state>
-    <state width="1430" height="224" key="GridCell.Tab.0.left/0.0.1473.864/-2560.0.2560.1080@0.0.1473.864" timestamp="1611679334175" />
-    <state width="1430" height="224" key="GridCell.Tab.0.right" timestamp="1611679334175">
-      <screen x="0" y="0" width="1473" height="864" />
-    </state>
-    <state width="1430" height="224" key="GridCell.Tab.0.right/0.0.1473.864/-2560.0.2560.1080@0.0.1473.864" timestamp="1611679334175" />
-    <state x="444" y="164" width="584" height="536" key="find.popup" timestamp="1611675877406">
-      <screen x="0" y="0" width="1473" height="864" />
-    </state>
-    <state x="444" y="164" width="584" height="536" key="find.popup/0.0.1473.864/-2560.0.2560.1080@0.0.1473.864" timestamp="1611675877406" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
