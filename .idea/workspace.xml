@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/SuperClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/out/production/my-first-java-app/javacore/ClassTest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/ClassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/ForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/IfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/InstanceofTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/InstanceofTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MathTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/MyClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/OperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/OperationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/TernaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/TernaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javacore/WhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/WhileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest$Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/ArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/ForTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/IfTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/InstanceofTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/MathTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/MyClassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/OperationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/StringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/TernaryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javacore/WhileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/Car.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +51,7 @@
       <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Car">
+  <component name="RunManager" selected="Application.SuperClass">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javalanguage.Car" />
       <module name="javaStudy" />
@@ -121,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FieldTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.FieldTest" />
+    <configuration name="Outer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalanguage.Outer" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.MethodTest" />
+    <configuration name="SuperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalanguage.SuperClass" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperClass" />
+        <item itemvalue="Application.Outer" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.Clock" />
         <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.MethodTest" />
-        <item itemvalue="Application.FieldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +150,7 @@
       <workItem from="1611763179403" duration="374000" />
       <workItem from="1611763684321" duration="391000" />
       <workItem from="1611764104499" duration="3175000" />
-      <workItem from="1612010728396" duration="8309000" />
+      <workItem from="1612010728396" duration="10289000" />
     </task>
     <servers />
   </component>
