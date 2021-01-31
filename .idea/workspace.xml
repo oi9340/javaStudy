@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyAbstractProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyOtherInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MySubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MySubInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/Car.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -51,7 +58,7 @@
       <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SuperClass">
+  <component name="RunManager" selected="Application.MyInterfaceImpl">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javalanguage.Car" />
       <module name="javaStudy" />
@@ -65,28 +72,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.Clock" />
+    <configuration name="MyInterfaceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyInterfaceImpl" />
       <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javalanguage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.Employee" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javalanguage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,24 +105,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="URLProcessorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalanguage.URLProcessorImpl" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalanguage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyInterfaceImpl" />
+        <item itemvalue="Application.URLProcessorImpl" />
         <item itemvalue="Application.SuperClass" />
         <item itemvalue="Application.Outer" />
         <item itemvalue="Application.Car" />
-        <item itemvalue="Application.Clock" />
-        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +154,7 @@
       <workItem from="1611763684321" duration="391000" />
       <workItem from="1611764104499" duration="3175000" />
       <workItem from="1612010728396" duration="10289000" />
+      <workItem from="1612071620869" duration="5055000" />
     </task>
     <servers />
   </component>
