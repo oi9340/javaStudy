@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/MyInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyAbstractProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyOtherInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MySubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MySubInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +19,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -58,9 +64,9 @@
       <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyInterfaceImpl">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.Car" />
+  <component name="RunManager" selected="Application.EnumTest">
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalanguage.EnumTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyInterfaceImpl" />
+        <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.URLProcessorImpl" />
+        <item itemvalue="Application.MyInterfaceImpl" />
         <item itemvalue="Application.SuperClass" />
         <item itemvalue="Application.Outer" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +160,7 @@
       <workItem from="1611763684321" duration="391000" />
       <workItem from="1611764104499" duration="3175000" />
       <workItem from="1612010728396" duration="10289000" />
-      <workItem from="1612071620869" duration="5055000" />
+      <workItem from="1612071620869" duration="8153000" />
     </task>
     <servers />
   </component>

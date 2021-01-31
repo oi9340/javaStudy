@@ -5,7 +5,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
-public abstract class URLProcessorBase {
+public abstract class URLProcessorBase implements URLProcessor{
 
     public void process(URL url) throws IOException{
         URLConnection urlConnection = url.openConnection();

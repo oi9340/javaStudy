@@ -16,7 +16,7 @@ public class URLProcessorImpl extends URLProcessorBase{
     }
 
     public static void main(String[] args) throws IOException {
-        URLProcessorImpl urlProcessor = new URLProcessorImpl();
-        urlProcessor.process(new URL("http://www.naver.com"));
+        URLProcessor urlProcessor = new URLProcessorImpl();
+        urlProcessor.process(new URL("http://jenkov.com"));
     }
 }
