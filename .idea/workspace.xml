@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/MyProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javacollection/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javacollection/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javacollection/CollectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javacollection/IterableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javacollection/IteratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javalanguage/URLProcessorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javalanguage/URLProcessorImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +62,13 @@
       <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumTest">
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.EnumTest" />
+  <component name="RunManager" selected="Application.Car">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollection.Car" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalanguage.*" />
+          <option name="PATTERN" value="javacollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,19 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyInterfaceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyInterfaceImpl" />
-      <module name="javaStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Outer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.Outer" />
+    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollection.CollectionTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalanguage.*" />
+          <option name="PATTERN" value="javacollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.SuperClass" />
+    <configuration name="CollectionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollection.CollectionsTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalanguage.*" />
+          <option name="PATTERN" value="javacollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URLProcessorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalanguage.URLProcessorImpl" />
+    <configuration name="IterableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollection.IterableTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalanguage.*" />
+          <option name="PATTERN" value="javacollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +115,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollection.IteratorTest" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.URLProcessorImpl" />
-        <item itemvalue="Application.MyInterfaceImpl" />
-        <item itemvalue="Application.SuperClass" />
-        <item itemvalue="Application.Outer" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.CollectionsTest" />
+        <item itemvalue="Application.CollectionTest" />
+        <item itemvalue="Application.IterableTest" />
+        <item itemvalue="Application.IteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +163,9 @@
       <workItem from="1611764104499" duration="3175000" />
       <workItem from="1612010728396" duration="10289000" />
       <workItem from="1612071620869" duration="8153000" />
+      <workItem from="1612193901625" duration="100000" />
+      <workItem from="1612257657259" duration="595000" />
+      <workItem from="1612272644068" duration="11953000" />
     </task>
     <servers />
   </component>
