@@ -1,4 +1,4 @@
-package javaBasic;
+package javaBasic.classpart;
 //하나의 자바 파일에 클래스는 여러개 생성 가능하나 public 클래스는 단 한개 그리고 자바 파일과 이름이 동일해야한다.
 public class Student {
 
@@ -45,7 +45,7 @@ public class Student {
         st2.showStudentInfo();
         st2.showStudentInfo(123);
 
-        System.out.println(st); //javaBasic.Student@7cc355be
-        System.out.println(st2); //javaBasic.Student@6e8cf4c6
+        System.out.println(st); //javaBasic.classpart.Student@7cc355be
+        System.out.println(st2); //javaBasic.classpart.Student@6e8cf4c6
     }
 }
