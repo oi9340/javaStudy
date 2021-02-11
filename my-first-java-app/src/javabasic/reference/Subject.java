@@ -1,4 +1,4 @@
-package javaBasic.reference;
+package javabasic.reference;
 
 public class Subject {
 

@@ -1,4 +1,4 @@
-package javaBasic.classpart;
+package javabasic.classpart;
 
 public class FunctionTest {
 
