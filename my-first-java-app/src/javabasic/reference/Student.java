@@ -19,29 +19,34 @@ public class Student {
 
     public void koreaSubject(String name, int score){
         korea.subjectName = name;
-        korea.subjectID = score;
+        korea.score = score;
+        System.out.println("koreasubject "+score);
     }
 
     public void mathSubject(String name, int score){
         math.subjectName = name;
-        math.subjectID = score;
+        math.score = score;
+        System.out.println("mathsubject "+score);
     }
 
     public void showStudentScore(){
         int total = korea.score + math.score;
+        System.out.println(korea.score);
+        System.out.println(math.score);
         System.out.println(studentName+"님의 총점은 "+total+"점 입니다.");
     }
 
     public static void main(String[] args) {
 
         Student str1 = new Student(100, "lee");
-        str1.koreaSubject("국어", 100);
+        str1.koreaSubject("국어", 89);
         str1.mathSubject("수학", 90);
-        str1.showStudentScore();
 
         Student str2 = new Student(101, "kim");
-        str2.koreaSubject("국어", 100);
+        str2.koreaSubject("국어", 79);
         str2.mathSubject("수학", 90);
+
+        str1.showStudentScore();
         str2.showStudentScore();
 
     }
