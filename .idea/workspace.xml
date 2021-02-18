@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/cooperation/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/cooperation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/cooperation/Subway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/cooperation/TakeTransTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/cooperation/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/hiding/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/hiding/MyDateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/statictest/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/statictest/CompanyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/statictest/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/statictest/StudentIDTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/thistest/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/thistest/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/BookArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ObjectCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ObjectCopy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/TowDimension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javabasic/reference/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/reference/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-java-app/src/javabasic/reference/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/reference/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javaBasic/reference/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javaBasic/reference/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javaBasic/statictest/CompanyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javaBasic/statictest/CompanyTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,16 +63,17 @@
       <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javabasic.array" />
       <recent name="javabasic.statictest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompanyTest">
-    <configuration name="CompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.statictest.CompanyTest" />
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.array.ArrayListTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.statictest.*" />
+          <option name="PATTERN" value="javabasic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.hiding.MyDateTest" />
+    <configuration name="ObjectCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.array.ObjectCopy" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.hiding.*" />
+          <option name="PATTERN" value="javabasic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.thistest.PersonTest" />
+    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.array.ObjectCopy2" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.thistest.*" />
+          <option name="PATTERN" value="javabasic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentIDTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.statictest.StudentIDTest" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.array.StudentTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.statictest.*" />
+          <option name="PATTERN" value="javabasic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeTransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.cooperation.TakeTransTest" />
+    <configuration name="TowDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.array.TowDimension" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.cooperation.*" />
+          <option name="PATTERN" value="javabasic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,26 +133,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompanyTest" />
-        <item itemvalue="Application.StudentIDTest" />
-        <item itemvalue="Application.TakeTransTest" />
-        <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.MyDateTest" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.TowDimension" />
+        <item itemvalue="Application.ObjectCopy2" />
+        <item itemvalue="Application.ObjectCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +183,8 @@
       <workItem from="1612713309740" duration="5063000" />
       <workItem from="1612804204648" duration="1937000" />
       <workItem from="1613054808809" duration="4446000" />
-      <workItem from="1613286984625" duration="8709000" />
+      <workItem from="1613286984625" duration="8911000" />
+      <workItem from="1613626393745" duration="6159000" />
     </task>
     <servers />
   </component>
