@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/BookArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ObjectCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/ObjectCopy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/array/TowDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/OverridingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/VIPCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/GoldCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/VIPCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/javaBasic/statictest/CompanyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/javaBasic/statictest/CompanyTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +47,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaset" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app\src\javabasic\polymorphsim" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pej\Documents\javaStudy\my-first-java-app\out\production\my-first-java-app\javacore" />
       <recent name="C:\Users\pej\Documents\javaStudy" />
@@ -67,7 +68,20 @@
       <recent name="javabasic.statictest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentTest">
+  <component name="RunManager" selected="Application.AnimalTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.polymorphsim.AnimalTest" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasic.polymorphsim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasic.array.ArrayListTest" />
       <module name="javaStudy" />
@@ -81,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.array.ObjectCopy" />
+    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.inheritance.CustomerTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.array.*" />
+          <option name="PATTERN" value="javabasic.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.array.ObjectCopy2" />
+    <configuration name="OverridingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.inheritance.OverridingTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.array.*" />
+          <option name="PATTERN" value="javabasic.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,37 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.array.TowDimension" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javabasic.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.OverridingTest" />
+        <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.ArrayListTest" />
-        <item itemvalue="Application.TowDimension" />
-        <item itemvalue="Application.ObjectCopy2" />
-        <item itemvalue="Application.ObjectCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +174,9 @@
       <workItem from="1612804204648" duration="1937000" />
       <workItem from="1613054808809" duration="4446000" />
       <workItem from="1613286984625" duration="8911000" />
-      <workItem from="1613626393745" duration="6159000" />
+      <workItem from="1613626393745" duration="8207000" />
+      <workItem from="1613653449503" duration="36000" />
+      <workItem from="1613810579766" duration="6439000" />
     </task>
     <servers />
   </component>
