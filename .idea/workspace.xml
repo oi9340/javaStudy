@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ce1311-833c-4cc7-baee-79c8ebf9b2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/OverridingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/inheritance/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/GoldCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/polymorphsim/VIPCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/abstracttest/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/abstracttest/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/abstracttest/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/abstracttest/MyNoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/abstracttest/NoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/interfacetest/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/template/AiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/template/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/template/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/template/ManualCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/templatetest/AdvancedLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/templatetest/BeginnerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/templatetest/PlayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/templatetest/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/templatetest/PlayerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-java-app/src/javabasic/templatetest/SuperLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -68,7 +76,7 @@
       <recent name="javabasic.statictest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalTest">
+  <component name="RunManager" selected="Application.CarTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasic.polymorphsim.AnimalTest" />
       <module name="javaStudy" />
@@ -82,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.array.ArrayListTest" />
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.template.CarTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.array.*" />
+          <option name="PATTERN" value="javabasic.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.inheritance.CustomerTest" />
+    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.abstracttest.ComputerTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.inheritance.*" />
+          <option name="PATTERN" value="javabasic.abstracttest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasic.array.StudentTest" />
+    <configuration name="PlayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.templatetest.PlayTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasic.array.*" />
+          <option name="PATTERN" value="javabasic.templatetest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,13 +142,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.PlayTest" />
+        <item itemvalue="Application.ComputerTest" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.OverridingTest" />
-        <item itemvalue="Application.CustomerTest" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.ArrayListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +196,8 @@
       <workItem from="1613626393745" duration="8207000" />
       <workItem from="1613653449503" duration="36000" />
       <workItem from="1613810579766" duration="6439000" />
+      <workItem from="1614010661344" duration="4099000" />
+      <workItem from="1614089206002" duration="1702000" />
     </task>
     <servers />
   </component>
